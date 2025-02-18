@@ -1,8 +1,8 @@
 # Hi there 👋  
 
 👋 My name is Jeereddy Mani Chenna Kesava Reddy
-🎓 Final Year B.Tech (Data Science & AI), Woxsen University 
 
+🎓 Final Year B.Tech (Data Science & AI), Woxsen University 
 
 📫 Connect with Me
 🌐 Portfolio: [Visit Here](https://transcendent-pasca-b546f2.netlify.app/)  
