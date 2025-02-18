@@ -8,7 +8,6 @@
 💼 LinkedIn: [Connect Here](https://www.linkedin.com/in/jeereddy-mani-chenna-kesava-reddy/)  
 🔊 Open for Opportunities  
 💡 Looking for roles in **Data Science, AI, ML, and Computer Vision**.  
-📧 Reach out via **manichennakesavareddy@gmail.com**  
 ⭐ *Let’s create something impactful!* 🚀  
 <!---
 Mani76600/Mani76600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
