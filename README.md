@@ -23,11 +23,10 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**Human Scream Detection**](https://github.com/Mani76600/human_scream_detection_crime) | ML model that detects human screams in audio clips to help flag potential crime/emergency situations | Python, Audio feature extraction, ML |
-| [**Eye Disease Detection**](https://github.com/Mani76600/eye-disease-detection) | Image classification model that detects eye diseases from retinal images | Python, Deep Learning, Computer Vision |
-| [**Sentiment Analysis Fine-Tuning**](https://github.com/Mani76600/TensorGo_task) | Fine-tuned a language model for sentiment classification | Python, NLP, Transformers |
-| [**Rule Engine with AST**](https://github.com/Mani76600/Rule_Engine_with_AST) | 3-tier app (UI, API, DB) that builds, combines and evaluates eligibility rules using Abstract Syntax Trees | Python, REST API, Database |
-| [**Real-Time Weather Monitoring**](https://github.com/Mani76600/Weather_monitoring_system) | Real-time data processing system with rollups, aggregates and threshold alerts | Python, APIs, Data pipelines |
+| [**Eye Disease Detection**](https://github.com/Mani76600/eye-disease-detection) | Transfer-learning image classifier (VGG16) that detects eye diseases from retinal images, evaluated with ROC / AUC | Python, TensorFlow/Keras, OpenCV, scikit-learn |
+| [**Sentiment Analysis Fine-Tuning**](https://github.com/Mani76600/TensorGo_task) | Fine-tuned a Hugging Face Transformer model for sentiment classification | Python, PyTorch, Hugging Face Transformers |
+| [**Rule Engine with AST**](https://github.com/Mani76600/Rule_Engine_with_AST) | 3-tier app (UI, API, DB) that builds, combines and evaluates eligibility rules using Abstract Syntax Trees | Python, Flask, MongoDB |
+| [**Real-Time Weather Monitoring**](https://github.com/Mani76600/Weather_monitoring_system) | Pulls live weather for 6 Indian metros, computes daily rollups & aggregates, plots trends and emails threshold alerts | Python, REST APIs, SQLite, Matplotlib |
 
 ---
 
